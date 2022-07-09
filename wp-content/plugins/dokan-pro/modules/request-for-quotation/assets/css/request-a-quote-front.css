@@ -1,0 +1,11 @@
+div.dokan_convert_to_order_button button {
+    float: right;
+    background: green;
+    color: white;
+    border-radius: 3px;
+}
+div.dokan_convert_to_order_button {
+    width: 100%;
+    overflow: hidden;
+    margin-top: 1em;
+}
